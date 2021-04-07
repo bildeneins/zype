@@ -1,6 +1,7 @@
 {
-  "name": "typing",
+  "name": "zype",
   "version": "0.1.0",
+  "description": "Customizable typing app using electron + vue",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
